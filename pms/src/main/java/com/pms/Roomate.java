@@ -1,6 +1,8 @@
 package com.pms;
 
 public class Roomate {
-  privte int roomId;
+  private int roomId;
+  private String name;
+  
 
 }
